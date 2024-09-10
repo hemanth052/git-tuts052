@@ -1,1 +1,1 @@
-print("Hemanth is great + Swarupa is stupid")
+print("Hi this is good to go")
